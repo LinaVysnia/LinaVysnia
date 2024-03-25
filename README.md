@@ -4,7 +4,7 @@ Hi, it's nice to have you here. I'm _branching out_ and web development is my **
 ![GitHub branching](https://wac-cdn-a.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=ey)
 
 ## Projects
-Oh yes, the most exciting part. I'm currently learning, JavaScript, HTML, CSS, the basics of computer science and **version control**. If you're into that, you're in the right place, here are some projects I've done so far.
+Oh yes, the most exciting part. I'm currently learning JavaScript, HTML, CSS, the basics of computer science and **version control**. If you're into that, you're in the right place, here are some projects I've done so far.
 
 ### [The Periodic Table of Elements](https://github.com/LinaVysnia/Periodic-table.git) 
 Do you feel like checking in on the elements? Expect to experience responsive design and some cool gradients!
