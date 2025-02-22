@@ -1,22 +1,22 @@
 # Welcome to Lina's GitHub!
 
 Hi, it's nice to have you here. I'm _branching out_ and Python development is my **new twig**. 
-Having studied JavaScript, HTML, CSS, the basics of computer science, fetching data, node.js, react.js I'm gazing into the dreamy horizons of _Machine Learning_. Python is the new black, let's not forget SQL, Flask, SQLAlchemy, Pandas, NumPy, Matplotlib and some actual **version control** this time. If you're into that, you're in the right place.
+Having studied JavaScript, HTML, CSS, node.js, react.js, the basics of computer science and all the ways of fetching data I'm gazing into the dreamy horizons of _Machine Learning_. Python is the new black, let's not forget SQL, Flask, SQLAlchemy, Pandas, NumPy, Matplotlib and some actual **version control** this time. If you're into that, you're in the right place.
 
 ## Projects
-Oh yes, the most exciting part. Here are some projects I've done so far.
+Here are some projects I've done so far. I can't state that any of them are "completed", they're more in a forever-being-improved kind of state.
 
-### [Weather small talk tips for London](https://github.com/LinaVysnia/Small-talk-weather-tips.git)
-Are you in London and somebody is trying to start small talk with you? Don't fret, talk about the weather! Here's a page with a live list of handy information about the local meteorological conditions.
-Do you have any tips on how to keep the data updated every time the live data updates? Do start this small talk and tell me your ideas!
+### [Library management system](https://github.com/LinaVysnia/library_management_syst.git)
+A back-end-oriented library management system. What this app loses with its terminal-only menu UX, it makes up with modern SQL Alchemy practices, optimised APIs, and database versioning. Any other UI would be an improvement and you, the reader, probably know at least a few tools you could suggest, so may your code always compile the first time if you share this knowledge with me.
 
-### [The Periodic Table of Elements](https://github.com/LinaVysnia/Periodic-table.git) 
-Do you feel like checking in on the elements? Expect to experience responsive design and some cool gradients!
-Do you have any input to share? For example, how using JavaSript could make this page more efficient? I'm all ears!
+### [E-shop](https://github.com/LinaVysnia/E-shop.git)
+Teamwork makes the dream work, or in this scenario, makes an e-shop work. This project has it all - a proper backend with a solid architecture, a functioning front-end, optimised APIs, user registration, authentication, account lockdowns for protection, session storage, electronic payments, an admin dashboard with all sorts of cool stuff like statistics and user banning, there's too much to name.
 
-### [Fortune Teller](https://github.com/LinaVysnia/Fortune-Teller.git)
-Do you want to know when you'll meet your best friend? Or at what time in your life you'll go through such turmoil that will make you dye your hair? Look no further than the console log when running this page!
-Do you have any suggestions? Maybe something like how the fortune could be displayed in a pop-up message? I'm welcoming all the tips!
+### [Telco bussiness analysis](https://github.com/LinaVysnia/Telecommunications_bussiness_analysis.git)
+If you look at data long enough, eventually it will look right back at you as a Matplotlib graph. I did a decent amount of data preparation here, analysed each dimension for preprocessing, found missing/odd values, analysed ordinal data, simplified the categorical data into binary where I could, and encoded the rest. Did more analysis for feature selection, dimension reduction, and then clusterised the users to analyse their behaviour. Then trained several different Machine Learning models for churn prediction to find the most suitable. Great challenge and even greater fun. I believe that there exists an even better feature selection so that ML models could reach even better results, if you come across this and have some suggestions, please do let me know!
+
+### [Hangman](https://github.com/LinaVysnia/Hangman.git) 
+This absolute classic of a game is filled with programming-only words or abbreviations. No matter how good you think you are, you'll appreciate the hint button. Have I mentioned it has ASCI art animations? Are you by any chance a ThomasRinsma-esque developer who could share some knowledge with me on how to port this to a PDF? 
 
 ## About Me
 - **Incredibly mysterious at this point**
