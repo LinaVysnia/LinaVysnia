@@ -20,11 +20,11 @@ Teamwork makes the dream work, or in this scenario, makes an e-shop work. This p
 A back-end-oriented library management system. What this app loses with its terminal-only menu UX, it makes up with modern SQL Alchemy practices, optimised APIs, and database versioning. Any other UI would be an improvement and you, the reader, probably know at least a few tools you could suggest, so may your code always compile the first time if you share this knowledge with me.
 
 ## About Me
-From art direction and technical 3D visualisations to training machine learning models on architectural floor plans — my career has never taken the straight-line route, and I wouldn't have it any other way. Creative problem solving has been the thread running through all of it.
+From art direction and technical 3D visualisations to training machine learning models on architectural floor plans - my career has never taken the straight-line route, and I wouldn't have it any other way. Creative problem solving has been the thread running through all of it.
 
 My background is in computer graphics and production, where I picked up a solid foundation in research, documentation, and working in fast-moving teams. At some point I looked up from the render queue and realised I wanted to build the systems behind the visuals, not just the visuals themselves. So I did something about it.
 
-Now I'm focused on backend engineering and machine learning — Python, SQL, Flask, SQLAlchemy, Pandas, NumPy, and wherever the data takes me next. I care about writing code that's efficient, readable, and actually solves something. The projects here reflect that journey: some polished, some still very much in progress, all genuinely mine.
+Now I'm focused on backend engineering and machine learning: Python, SQL, Flask, SQLAlchemy, Pandas, NumPy, and wherever the data takes me next. I care about writing code that's efficient, readable, and actually solves something. The projects here reflect that journey: some polished, some still very much in progress, all genuinely mine.
 
 If you're working on something interesting or just want to trade notes, I'm always up for a conversation.
 
